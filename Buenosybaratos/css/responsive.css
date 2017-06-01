@@ -1,0 +1,658 @@
+@media only screen and (max-width:1900px){
+
+.left-links {
+  left: 5px;
+  max-width: 250px;
+}	
+
+}
+
+@media only screen and (max-width:1719px){
+
+.left-links {
+ left:5px;
+ width:250px;
+}
+
+.review-mainsection {
+  margin-left: 68px;
+  width: 73%;
+}
+
+.header_text::after {
+  border-left: 130px solid transparent;
+  border-right: 130px solid transparent;
+}
+
+h2.bg {
+padding: 15px 10px;
+}
+
+.left-links > ul > li > a {
+  margin: 0 10px;
+  font-size:14px;
+}
+
+
+
+.right-sidebar {
+  float: right;
+  width: 20%;
+}
+
+
+
+.related-articles > ul > li > a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+}
+
+@media only screen and (max-width:1599px){
+.header_text::after {
+  border-left: 108px solid transparent;
+  border-right: 108px solid transparent;
+}
+
+.review-mainsection {
+  margin-left:122px;
+  width: 68%;
+}
+}
+
+@media only screen and (max-width:1499px){
+.review-mainsection{
+ margin-left:200px;
+ width:62%;
+ }
+ 
+ .best-product-text {
+  padding-top: 20px;
+}
+
+.detail-text {
+  margin-top: 30px;
+}
+
+.all-product .oneProduct .amazon-group {
+  padding: 20px 10px;
+}
+
+.comment-middle textarea {
+  width: 90%;
+}
+
+}
+
+@media only screen and (max-width:1330px){
+.left-links {
+  border: 1px solid #ccc;
+  width:222px;
+}
+
+}
+
+@media only screen and (max-width:1299px){
+
+
+
+}
+
+@media only screen and (max-width:1268px){
+.review-mainsection {
+  margin-left: 230px;
+  width: 80%;
+}
+
+.right-sidebar {
+  width: 81%;
+}
+
+.header_text::after {
+  border-left: 142px solid transparent;
+  border-right: 142px solid transparent;
+}
+}
+
+
+@media only screen and (max-width:1200px){
+
+ .wrapper{
+ padding-left:15px;
+ padding-right:15px;
+ }
+ 
+ .p-grp {
+  width: 22%;
+}
+
+.comment-middle textarea {
+  width: 91%;
+}
+
+.right-sidebar {
+  width: 80%;
+}
+
+.header_text::after {
+display:none;
+}
+ 
+}
+ 
+ @media only screen and (max-width:1099px){
+ 
+.p-grp {
+  padding-top: 15px;
+  width: 30%;
+}
+
+.p-img {
+  text-align: center;
+}
+
+.p-img > img {
+  border-radius:3px;
+  display: inline-block;
+}
+
+.review-mainsection {
+  width: 78%;
+}
+
+.right-sidebar {
+  width: 78%;
+}
+
+ }
+ 
+  @media only screen and (max-width:1069px){
+  
+  .review-mainsection {
+  width: 77%;
+}
+
+.right-sidebar {
+  width: 77%;
+}
+
+  }
+ 
+@media only screen and (max-width:1023px){
+
+.best-product-text {
+  padding-top: 10px;
+}
+
+.detail-text {
+  margin-top: 20px;
+}
+
+.btns-group a.our-opinion {
+  margin-right: 0;
+  margin-bottom:20px;
+}
+
+.related-articles > ul > li > a {
+  overflow: hidden;
+  padding: 4px 2px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+}
+ 
+@media only screen and (max-width:960px){
+
+section.banner {
+  padding: 100px 0 180px;
+}
+
+.col-group > p {
+  padding: 0;
+}
+
+.who-we-are .right-section {
+  padding: 150px 0 150px 30px;
+}
+
+.what-we-do {
+  padding: 70px 0;
+}
+
+.consumers-served {
+  padding: 70px 0;
+}
+.top-products {
+  padding: 70px 0 50px;
+}
+
+.p-grp {
+  width: 44%;
+  border-radius:5px;
+}
+
+.served-details-text {
+  margin-top: 0;
+}
+
+.served-details-text h3 br {
+  display: none;
+}
+
+.footer-grp.first-col {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.footer-grp {
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.review-mainsection {
+  width: 70%;
+}
+
+.right-sidebar {
+  width: 28%;
+}
+
+.product-detail > img {
+  margin-right: 0;
+}
+
+.coll.cons {
+  width: 47%;
+}
+
+.comment-middle textarea {
+  width: 85%;
+}
+
+.left-links {
+  margin-bottom: 30px;
+  max-width: 100%;
+  position: static;
+  width: 100%;
+}
+
+.review-mainsection {
+  margin-left: 0;
+}
+
+.header_text::after {
+  display: none;
+}
+
+}
+
+@media only screen and (max-width:767px){
+
+
+section.banner {
+  padding: 70px 0 100px;
+}
+
+.what-we-do {
+  padding: 40px 0;
+}
+
+.who-we-are .right-section {
+  padding: 100px 0 80px 30px;
+}
+
+.consumers-served {
+  padding: 40px 0;
+}
+
+.top-products {
+  padding: 40px 0 20px;
+}
+
+footer {
+  padding-top: 40px;
+}
+
+.review-mainsection {
+  margin-right: 0;
+  width: 100%;
+}
+
+.right-sidebar {
+  width: 100%;
+}
+
+}
+
+@media only screen and (max-width:680px){
+
+.p-grp {
+  padding-top:2px;
+}
+}
+
+
+@media only screen and (max-width:640px){
+
+p.center br {
+  display: none;
+}
+
+.col-group {
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.who-we-are .right-section {
+  padding: 100px 15px 100px 15px;
+  width: 100%;
+}
+
+.who-we-are .right-section h2 {
+  text-align: center;
+}
+
+form.search-form {
+  margin-left: 0;
+  width: 100%;
+}
+
+.served-details-img {
+  float: left;
+  margin-right: 0;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.served-details-text {
+  width: 100%;
+  text-align: center;
+}
+
+a.view-all {
+  display: inline-block;
+}
+
+.p-grp {
+  padding-top: 0;
+}
+
+.footer-grp.first-col {
+  text-align: center;
+}
+
+.social-icon {
+  text-align: center;
+  display: inline-block;
+}
+
+.footer-grp .social-icon ul {
+  display: inline-block;
+  float: none;
+  width: auto;
+}
+
+.footer-grp {
+  width: 100%;
+  text-align: center;
+}
+
+.footer-grp ul {
+  float: none;
+  width: auto;
+}
+
+.footer-grp > ul > li {
+  border-bottom: 1px dotted #718097;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.footer-grp ul.r-side > li:last-child {
+  border: none;
+}
+
+.review-mainsection h2.bg.blue {
+  text-align: center;
+}
+
+.bg-white {
+  text-align: center;
+}
+
+.best-product-img {
+  width: 100%;
+}
+
+.best-product-text {
+  width: 100%;
+  padding-left: 0;
+}
+
+.detail-img {
+  width: 100%;
+}
+
+.detail-text {
+  width: 100%;
+  margin-left: 0;
+}
+
+.product-detail > img {
+  float: none;
+}
+
+.product-review .product-detail p {
+  width: 100%;
+  float: left;
+}
+
+.coll.pros {
+  float: left;
+  margin-right: 0;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.coll.cons {
+  width: 100%;
+}
+
+.how-we-works {
+  text-align: center;
+}
+
+.pro-amazon {
+  display: none;
+}
+
+.table-compare {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom:0;
+}	
+
+.pro-title-amazon {
+  display: table;
+  float: left;
+  margin-left: 0;
+  width: 100%;
+}
+
+.all-product {
+  display: block;
+  margin-bottom: 30px;
+  width: 100%;
+  float: left;
+}
+
+.all-product.middle {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+.all-product .oneProduct .product-desc.first, .all-product .oneProduct .product-desc.second, .all-product .oneProduct .product-desc.third {
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+}
+
+.overlay-content li {
+  border-bottom: 1px dotted #818181;
+  float: left;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+  width: 100%;
+}
+
+.overlay-content li:last-child {
+ border-bottom:none;
+ }
+
+.overlay-content {
+  top: 80px;
+}
+
+.overlay a {
+  font-size: 14px;
+}
+
+.p-img > img {
+  border-radius: 3px;
+  display: block;
+  width: 100%;
+}
+
+
+
+
+}
+
+@media only screen and (max-width:568px){
+
+section.banner {
+  padding: 65px 0 90px;
+}
+
+.banner-main h2 {
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 40px;
+}
+
+.search-form input {
+  font-size: 14px;
+  padding: 8px;
+}
+
+button.btn-danger {
+  font-size: 16px;
+  height: 34px;
+  padding: 5px;
+  width:78px;
+}
+
+.banner-main p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+h2.heading {
+  font-size: 20px;
+}
+
+.col-group > h2 a {
+  font-size: 20px;
+}
+
+.col-group {
+  padding: 0;
+}
+
+.who-we-are .right-section {
+  padding: 40px 0 40px 10px;
+  width:100%;
+}
+
+.who-we-are .right-section h2 {
+  font-size: 22px;
+}
+
+.who-we-are .right-section ul li {
+  font-size: 14px;
+}
+
+.consumers-served p.red {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.served-details-text h3 {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.served-details-text p {
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom:40px;
+  padding-right: 0;
+}
+
+.p-grp {
+  margin: 0 0 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.p-grp > h2 {
+  padding-left: 0;
+  text-align: center;
+}
+
+a.viewall {
+  display: inline-block;
+  margin-left: 0;
+}
+
+.copyright p {
+  line-height: 20px;
+}
+
+.logo {
+  width: 160px;
+}
+
+.menu {
+  margin: 16px 0;
+}
+
+.bg-white {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.bg-white > h2, .best-product h2 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.comment-middle textarea {
+  width: 75%;
+}
+
+.p-img {
+  padding-top:0px;
+  text-align: center;
+  height:auto;
+}
+
+}
